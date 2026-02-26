@@ -93,7 +93,7 @@ export default function App() {
             >
               <div className="absolute inset-0 bg-red-600/10 blur-3xl rounded-full" />
               <img
-                src="../src/assets/laptop (1).png"
+                src="/laptop (1).png"
                 alt="Tech Element"
                 className="w-[80%] md:w-full max-w-[300px] md:max-w-[500px] h-auto relative z-10 drop-shadow-2xl"
               />
@@ -125,7 +125,7 @@ export default function App() {
             <div className="absolute -inset-4 border-2 border-red-600/30 rounded-[2rem] md:group-hover:rotate-3 transition-transform duration-500" />
             <div className="relative overflow-hidden rounded-[2rem] bg-neutral-900 aspect-square">
               <img
-                src="../src/assets/juan.jpg"
+                src="/juan.jpg"
                 alt="Juan Indiano"
                 className="w-full h-full object-cover grayscale md:hover:grayscale-0 transition-all duration-700 md:scale-110 md:group-hover:scale-100"
               />
@@ -179,7 +179,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-tr from-red-600/20 to-transparent opacity-0 md:group-hover:opacity-100 transition-opacity duration-500 z-10 pointer-events-none" />
                 <div className="relative h-full w-full overflow-hidden">
                   <video
-                    src="../src/assets/videoportal.mkv"
+                    src="/videoportal.mkv"
                     autoPlay loop muted playsInline
                     className="w-full h-full object-cover opacity-80 md:opacity-50 md:group-hover:opacity-100 transition-opacity"
                   />
@@ -217,7 +217,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-tl from-red-600/20 to-transparent opacity-0 md:group-hover:opacity-100 transition-opacity duration-500 z-10 pointer-events-none" />
                 <div className="relative h-full w-full overflow-hidden">
                   <video
-                    src="../src/assets/videojecalhas.mkv"
+                    src="/videojecalhas.mkv"
                     autoPlay loop muted playsInline
                     className="w-full h-full object-cover opacity-80 md:opacity-50 md:group-hover:opacity-100 transition-opacity"
                   />
