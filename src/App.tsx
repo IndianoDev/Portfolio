@@ -1,6 +1,5 @@
 import { motion, useScroll, useSpring } from 'framer-motion';
-import { Terminal, Zap, ZapIcon } from 'lucide-react';
-import { RiExternalLinkLine, RiGithubFill, RiLinkedinBoxFill, RiMailFill, RiTerminalBoxLine } from 'react-icons/ri';
+import { RiExternalLinkLine, RiGithubFill, RiLinkedinBoxFill, RiMailFill, } from 'react-icons/ri';
 
 export default function App() {
 
