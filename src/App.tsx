@@ -179,7 +179,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-tr from-red-600/20 to-transparent opacity-0 md:group-hover:opacity-100 transition-opacity duration-500 z-10 pointer-events-none" />
                 <div className="relative h-full w-full overflow-hidden">
                   <video
-                    src="/videoportal.mkv"
+                    src="/videoportal.mp4"
                     autoPlay loop muted playsInline
                     className="w-full h-full object-cover opacity-80 md:opacity-50 md:group-hover:opacity-100 transition-opacity"
                   />
@@ -217,7 +217,7 @@ export default function App() {
                 <div className="absolute inset-0 bg-gradient-to-tl from-red-600/20 to-transparent opacity-0 md:group-hover:opacity-100 transition-opacity duration-500 z-10 pointer-events-none" />
                 <div className="relative h-full w-full overflow-hidden">
                   <video
-                    src="/videojecalhas.mkv"
+                    src="/videojecalhas.mp4"
                     autoPlay loop muted playsInline
                     className="w-full h-full object-cover opacity-80 md:opacity-50 md:group-hover:opacity-100 transition-opacity"
                   />
