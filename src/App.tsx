@@ -33,7 +33,7 @@ export default function App() {
         <div className="absolute top-1/2 -left-20 w-[300px] md:w-[500px] h-[300px] md:h-[500px] bg-red-600/5 blur-[120px] rounded-full pointer-events-none" />
 
         <div className="max-w-7xl mx-auto w-full relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          
+
           {/* COLUNA DA ESQUERDA: TEXTOS */}
           <div className="flex flex-col space-y-8 md:space-y-12 mt-10 md:mt-0">
             <motion.div
@@ -77,10 +77,18 @@ export default function App() {
 
             {/* ÍCONES SOCIAIS */}
             <div className="flex gap-4 md:gap-6 items-center pt-2 md:pt-4">
-            <RiGithubFill href="https://github.com/IndianoDev" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiLinkedinBoxFill href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/"className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiMailFill  href="mailto:juan75indiano@gmail.com" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-          </div>
+              <a href="https://github.com/IndianoDev" target="_blank" rel="noreferrer">
+                <RiGithubFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+              </a>
+
+              <a href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/" target="_blank" rel="noreferrer">
+                <RiLinkedinBoxFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+              </a>
+
+              <a href="mailto:juan75indiano@gmail.com">
+                <RiMailFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+              </a>
+            </div>
           </div>
 
           {/* COLUNA DA DIREITA: NOTEBOOK */}
@@ -115,7 +123,7 @@ export default function App() {
       {/* SOBRE MIM */}
       <section id="sobre" className="py-20 md:py-32 px-6 relative">
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-20 items-center">
-          
+
           <motion.div
             initial={{ opacity: 0, x: -50 }}
             whileInView={{ opacity: 1, x: 0 }}
@@ -289,9 +297,17 @@ export default function App() {
             juan75indiano@gmail.com
           </a>
           <div className="flex gap-4 md:gap-6 items-center pt-2 md:pt-4">
-            <RiGithubFill href="https://github.com/IndianoDev" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiLinkedinBoxFill href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/"className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiMailFill  href="mailto:juan75indiano@gmail.com" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <a href="https://github.com/IndianoDev" target="_blank" rel="noreferrer">
+              <RiGithubFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            </a>
+
+            <a href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/" target="_blank" rel="noreferrer">
+              <RiLinkedinBoxFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            </a>
+
+            <a href="mailto:juan75indiano@gmail.com">
+              <RiMailFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            </a>
           </div>
         </div>
       </footer>
