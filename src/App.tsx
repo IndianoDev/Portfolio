@@ -77,10 +77,10 @@ export default function App() {
 
             {/* ÍCONES SOCIAIS */}
             <div className="flex gap-4 md:gap-6 items-center pt-2 md:pt-4">
-              <RiGithubFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-              <RiLinkedinBoxFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-              <RiMailFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            </div>
+            <RiGithubFill href="https://github.com/IndianoDev" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <RiLinkedinBoxFill href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/"className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <RiMailFill  href="mailto:juan75indiano@gmail.com" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+          </div>
           </div>
 
           {/* COLUNA DA DIREITA: NOTEBOOK */}
@@ -289,9 +289,9 @@ export default function App() {
             juan75indiano@gmail.com
           </a>
           <div className="flex gap-4 md:gap-6 items-center pt-2 md:pt-4">
-            <RiGithubFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiLinkedinBoxFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
-            <RiMailFill className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <RiGithubFill href="https://github.com/IndianoDev" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <RiLinkedinBoxFill href="https://www.linkedin.com/in/juan-costa-indiano-8747a2239/"className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
+            <RiMailFill  href="mailto:juan75indiano@gmail.com" className="hover:text-red-600 cursor-pointer transition-all hover:scale-110" size={28} />
           </div>
         </div>
       </footer>
