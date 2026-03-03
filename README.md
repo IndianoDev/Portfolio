@@ -1,67 +1,55 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=JUAN.DEV;FULL+STACK+DEVELOPER;VISUAL+EXPERIENCES" alt="Typing SVG" />
+  <a href="https://indianodev.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=JUAN.DEV;FULL+STACK+DEVELOPER;VISUAL+EXPERIENCES" alt="Typing SVG" />
   </a>
 </h1>
+
+<p align="center">
+  <a href="https://indianodev.netlify.app/">
+    <img src="https://img.shields.io/badge/LIVE_PROJECT-ONLINE-success?style=for-the-badge&logo=vercel&logoColor=white&color=DC2626" alt="Deploy Status">
+  </a>
+</p>
 
 <p align="center">
   <samp>Transformando lógica complexa em experiências visuais brutais.</samp>
 </p>
 
-<p align="center">
-  <a href="#contato">
-    <img src="https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_PROJETOS-000000?style=for-the-badge&logoColor=white&color=DC2626" alt="Status">
-  </a>
-</p>
-
-<br />
-
-<h2 align="center">⚡ SOBRE MIM</h2>
-
-<p align="center">
- Estudante de <b>Engenharia de Software</b> na <a href="https://unb.br">UnB</a>. Minha mente funciona em dois tempos: a precisão acadêmica e a velocidade de entrega do mercado. Não acredito em "apenas funcionar". O código deve ser uma fortaleza e o frontend um espetáculo.
-</p>
-
-<br />
+<br>
 
 <h2 align="center">🛠️ ARSENAL TÉCNICO</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,postgres,firebase,git&theme=dark" />
 </div>
 
-<br />
-<br />
+<br>
 
 <h2 align="center">🚀 PROJETOS SELECIONADOS</h2>
 
 | **PORTAL DEPUTADOS** | **JE CALHAS** |
 | :---: | :---: |
-| <img src="LINK_DO_GIF_OU_IMG_PORTAL.png" width="300" /> | <img src="LINK_DO_GIF_OU_IMG_JECALHAS.png" width="300" /> |
-| Plataforma de monitoramento de dados públicos com **Next.js** e **Axios**. | Landing Page de alta conversão para o setor industrial com **Tailwind**. |
-| [`Ver Projeto`](https://portal-deputados.netlify.app/) | [`Ver Projeto`](https://jecalhas.com.br) |
+| <img src="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/main/public/nomedafoto1.png" width="400" alt="Preview Portal" /> | <img src="https://raw.githubusercontent.com/SEU_USUARIO/NOME_DO_REPO/main/public/nomedafoto2.png" width="400" alt="Preview JE Calhas" /> |
+| *Monitoramento de dados públicos* | *Landing Page Industrial* |
+| [`Acessar Projeto`](https://portal-deputados.netlify.app/) | [`Acessar Projeto`](https://jecalhas.com.br) |
 
-<br />
-<br />
+> **Nota:** Para as imagens acima aparecerem, substitua os links `src` pelo endereço **RAW** das suas imagens (veja o tutorial abaixo).
+
+<br>
 
 <h2 align="center">📊 ESTATÍSTICAS</h2>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&bg_color=050505&title_color=dc2626&text_color=ffffff&icon_color=dc2626&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&bg_color=050505&title_color=dc2626&text_color=ffffff&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&bg_color=050505&title_color=dc2626&text_color=ffffff&icon_color=dc2626&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&bg_color=050505&title_color=dc2626&text_color=ffffff&hide_border=true" />
+  </a>
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=050505" target="_blank" />
+  <a href="https://indianodev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-VISITAR-000000?style=for-the-badge&logo=google-chrome&logoColor=white&color=050505" />
   </a>
   <a href="mailto:juan75indiano@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=050505" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-CONTATO-000000?style=for-the-badge&logo=gmail&logoColor=white&color=DC2626" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer&animation=fadeIn" width="100%"/>
-</p>
